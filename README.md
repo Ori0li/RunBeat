@@ -153,3 +153,7 @@ In the output, you'll find options to open the app in a
   - [RunBeat BackEnd](https://www.notion.so/1ec8186df78b80bba96be8b876d4aac2)
 
 <br/>
+
+## 📥 다운로드 링크
+
+- **[RunBeat Downoad](https://drive.google.com/file/d/14cf9JYevNS9O5RKP6bo6RzqAMLw8L7h8/view)**
