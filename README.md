@@ -64,59 +64,39 @@ In the output, you'll find options to open the app in a
 
 ## ⚙ 기술 스택
 
-### 🧩 Front-end
+### 👨‍💻 Frontend
 
-<div>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white"/>
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🧩 Back-end
+### 📱 Mobile
 
-<div>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-</div>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🛠 Tools
+### 🗄️ Database
 
-<div>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
+### ⚙️ Backend / Server
 
-## 🤔 기술적 이슈와 해결 과정
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-- **Framer Motion 반응형 디자인**
+### ☁️ Infrastructure / Deployment
 
-  - 공식 문서([motion.dev](https://motion.dev))를 참고하여 애니메이션과 반응형 디자인을 구현하였습니다.
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
-- **TypeScript 타입 관리**
+### 🧰 Tools & Collaboration
 
-  - 공통 타입을 정의하여 재사용성을 높였고, `Params` 등 라우터 관련 타입도 명확하게 설정하였습니다.
-
-- **Navigation Bar 검색 기능**
-
-  - 수업에서 진행한 Todo 프로젝트에서의 `localStorage` 적용을 참고하여 검색 기능 구현에 활용하였습니다.
-
-- **Firebase 및 컴포넌트 분리**
-  - 구글링 및 참고자료를 통해 Firebase 사용법을 익혔고, 기능별·타입별 컴포넌트 분리를 진행하였습니다.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
-
-## 💻 기술 스택
-
-| 구분           | 사용 기술                            |
-| -------------- | ------------------------------------ |
-| **Frontend**   | React Native, Expo, React Navigation |
-| **Backend**    | **NestJS**, WebSocket                |
-| **AI 연동**    | OpenAI API                           |
-| **DB/Storage** | **MySQL**, AWS S3                    |
-| **기타**       | Android Studio (에뮬레이터 테스트)   |
-
----
 
 ## 👥 팀원 역할
 
