@@ -48,11 +48,11 @@ In the output, you'll find options to open the app in a
 
 ### ✅ 트레이너 상세 화면
 
-|                                   화면                                   | 설명                                                                                                    |
-| :----------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- |
-|     <img src="./frontend-V4/assets/pages/trainer.png" width="150"/>      | 트레이너 로그인 시 들어가는 메인 페이지 입니다. </br> 오늘의 일정과 다가오는 일정을 확인할 수 있습니다. |
-|  <img src="./frontend-V4/assets/pages/trainerchedule.png" width="150"/>  | 유저가 PT를 신청하면 리스트 형태로 쭉 나옵니다.                                                         |
-| <img src="./frontend-V4/assets/images/pages/tchatList.png" width="150"/> | 트레이너 쪽에서 보이는 PT 채팅 리스트로 담당 회원에 따라 채팅방 구분                                    |
+|                                  화면                                  | 설명                                                                                                    |
+| :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- |
+|    <img src="./frontend-V4/assets/pages/trainer.png" width="150"/>     | 트레이너 로그인 시 들어가는 메인 페이지 입니다. </br> 오늘의 일정과 다가오는 일정을 확인할 수 있습니다. |
+| <img src="./frontend-V4/assets/pages/trainerchedule.png" width="150"/> | 유저가 PT를 신청하면 리스트 형태로 쭉 나옵니다.                                                         |
+|   <img src="./frontend-V4/assets/pages/tchatList.png" width="150"/>    | 트레이너 쪽에서 보이는 PT 채팅 리스트로 담당 회원에 따라 채팅방 구분                                    |
 
 ### ✅ 공통 화면
 
